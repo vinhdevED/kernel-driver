@@ -5,6 +5,7 @@ This repository contains the implementation of Linux Kernel Drivers for both _**
 
 The drivers in this repository are designed to interact with hardware peripherals and memory-mapped IO, focusing on:
 - GPIO control for low-level hardware interaction
+- I2C for slave-master control
 - BRAM-based data exchange between kernel space and hardware accelerators
 - User-space API for seamless communication with the driver
   
